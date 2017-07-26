@@ -56,7 +56,7 @@ exports.config = {
       ignore: [/web\/static\/vendor/]
     },
     copycat: {
-      fonts: ['node_modlues/font-awesome/fonts']
+      fonts: ['node_modules/font-awesome/fonts']
     }
   },
 
