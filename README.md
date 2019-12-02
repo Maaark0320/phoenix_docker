@@ -1,4 +1,4 @@
-# docker-for-phoenix
+# phoenix_docker
 
 ## 概要
 Dockerを使用してPhoenix Frameworkの開発環境を構築するためのファイル群。
